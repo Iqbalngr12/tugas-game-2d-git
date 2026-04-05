@@ -9,9 +9,17 @@ public class GameManager : MonoBehaviour
 
     public GameUI gameUI;
     public GameAudio gameAudio;
+    public Shake screenshake;
     public int scorePlayer1, scorePlayer2;
     public System.Action onReset;
     public int maxScore = 10;
+    public PlayMode playMode;
+
+    public enum PlayMode
+    {
+        PlayerVsPlayer,
+        PlayerVsAI
+    }
 
     private void Awake()
     {
@@ -68,5 +76,23 @@ public class GameManager : MonoBehaviour
         scorePlayer1 = 0;
         scorePlayer2 = 0;
         gameUI.UpdateScores(scorePlayer1, scorePlayer2);
+    }
+
+    public void SwitchPlayMode()
+    {
+        switch (playMode)
+        {
+            case PlayMode.PlayerVsPlayer:
+                playMode = PlayMode.PlayerVsAI;
+                break;
+            case PlayMode.PlayerVsAI:
+                playMode = PlayMode.PlayerVsPlayer;
+                break;
+        }
+    }
+
+    public bool IsPlayer2AI()
+    {
+        return playMode == PlayMode.PlayerVsAI;
     }
 }

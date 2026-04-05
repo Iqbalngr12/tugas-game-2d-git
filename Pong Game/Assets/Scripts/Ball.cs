@@ -6,6 +6,7 @@ public class Ball : MonoBehaviour
 {
     public Rigidbody2D rb2d;
     public BallAudio ballAudio;
+    public ParticleSystem collisionParticles;
     public float maxInitialAngle = 0.67f;
     public float moveSpeed = 1f;
     public float maxStartY = 4f;
@@ -31,6 +32,8 @@ public class Ball : MonoBehaviour
 
         dir.y = Random.Range(-maxInitialAngle, maxInitialAngle);
         rb2d.linearVelocity = dir * moveSpeed;
+
+        EmitParticle(32);
     }
 
     private void ResetBallPosition()
@@ -46,6 +49,7 @@ public class Ball : MonoBehaviour
         if (scoreZone)
         {
             GameManager.instance.OnScoreZoneReached(scoreZone.id);
+            GameManager.instance.screenshake.StartShake(0.33f, 0.1f);
         }
     }
 
@@ -56,12 +60,21 @@ public class Ball : MonoBehaviour
         {
             ballAudio.PlayPaddleSound();
             rb2d.linearVelocity *= speedMultiplier;
+            EmitParticle(16);
+            GameManager.instance.screenshake.StartShake(Mathf.Sqrt(rb2d.linearVelocity.magnitude) * 0.02f, 0.075f);
         }
 
         Wall wall = collision.collider.GetComponent<Wall>();
         if (wall)
         {
             ballAudio.PlayWallSound();
+            EmitParticle(8);
+            GameManager.instance.screenshake.StartShake(0.033f, 0.033f);
         }
+    }
+
+    private void EmitParticle(int amount)
+    {
+        collisionParticles.Emit(amount);
     }
 }

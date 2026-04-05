@@ -9,6 +9,7 @@ public class GameUI : MonoBehaviour
     public ScoreText scoreTextPlayer1, scoreTextPlayer2;
     public GameObject menuObject;
     public TextMeshProUGUI winText;
+    public TextMeshProUGUI playModeButtonText;
     public TextMeshProUGUI volumeValueText;
 
     public System.Action onStartGame;
@@ -47,5 +48,24 @@ public class GameUI : MonoBehaviour
     {
         AudioListener.volume = value;
         volumeValueText.text = $"{Mathf.RoundToInt(value * 100)}%";
+    }
+
+    public void OnSwitchPlayModeButtonClicked()
+    {
+        GameManager.instance.SwitchPlayMode();
+        AdjustPlayModeButtonText();
+    }
+
+    private void AdjustPlayModeButtonText()
+    {
+        switch(GameManager.instance.playMode)
+        {
+            case GameManager.PlayMode.PlayerVsPlayer:
+                playModeButtonText.text = "2 Players";
+                break;
+            case GameManager.PlayMode.PlayerVsAI:
+                playModeButtonText.text = "Player vs AI";
+                break;
+        }
     }
 }
