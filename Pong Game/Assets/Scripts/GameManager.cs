@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviour
     public Shake screenshake;
     public int scorePlayer1, scorePlayer2;
     public System.Action onReset;
-    public int maxScore = 10;
+    public int maxScore = 11;
     public PlayMode playMode;
 
     public enum PlayMode

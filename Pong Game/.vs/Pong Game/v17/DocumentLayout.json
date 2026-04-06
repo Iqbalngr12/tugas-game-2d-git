@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|c:\\users\\mybook hype amd\\documents\\tugas game 2d\\pong game\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|c:\\users\\mybook hype amd\\documents\\tugas game 2d\\pong game\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\shake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\gameaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scorezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EADEFF2-C0A2-0287-D4EE-7A2724B1D88E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoretext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Shake.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\Shake.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shake.cs",
@@ -62,12 +66,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Shake.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T11:51:31.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T11:51:31.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\Ball.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
@@ -80,24 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T05:23:41.792Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BallAudio.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\BallAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BallAudio.cs",
@@ -109,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GameAudio.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\GameAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameAudio.cs",
@@ -121,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GameUI.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\GameUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI.cs",
@@ -129,12 +128,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GameUI.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwDcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T08:39:37.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T08:39:37.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Paddle.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\Paddle.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Paddle.cs",
@@ -147,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ScoreZone.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\ScoreZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreZone.cs",
@@ -155,19 +153,21 @@
               "RelativeToolTip": "Assets\\Scripts\\ScoreZone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T18:44:30.809Z"
+              "WhenOpened": "2026-04-03T18:44:30.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "ScoreText.cs",
               "DocumentMoniker": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\ScoreText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreText.cs",
               "ToolTip": "C:\\Users\\MyBook Hype AMD\\Documents\\Tugas Game 2D\\Pong Game\\Assets\\Scripts\\ScoreText.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScoreText.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T05:12:39.69Z"
+              "WhenOpened": "2026-04-04T05:12:39.69Z",
+              "EditorCaption": ""
             }
           ]
         }
